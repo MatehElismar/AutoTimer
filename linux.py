@@ -26,7 +26,7 @@ def get_active_window_raw():
 
     match = re.match(b"WM_NAME\(\w+\) = (?P<name>.+)$", stdout)
     if match != None:
-        ret = match.group("name").strip(b'"')
+        ret = match.group("name").strip(b'\'"\'\'')
         #print(type(ret))
         '''
         ret is str for python2
@@ -57,16 +57,32 @@ def get_chrome_url_x():
         ''' 
         instead of url the name of the website and the title of the page is returned seperated by '/' 
         '''
-        detail_full = get_active_window_raw()
+        detail_full = str(get_active_window_raw())
         detail_list = detail_full.split(' - ')
         detail_list.pop()
         detail_list = detail_list[::-1]
-        _active_window_name = 'Google Chrome -> ' + " / ".join(detail_list)
+        # Added By Me
+        for index, word in enumerate(detail_list):
+            if word[:2] in ["b'", 'b"']:
+                detail_list[index] = word[2:] 
+        # 
+            
+        _active_window_name = 'Browser -> ' + " | ".join(detail_list)
         return _active_window_name
 
+
+
 def get_active_window_x():
-    full_detail = get_active_window_raw()
+    '''Necesary to add str in the next line method with python 3'''
+    full_detail = str(get_active_window_raw()) 
     detail_list = None if None else full_detail.split(" - ")
+    # Added By Me
+    for index, word in enumerate(detail_list):
+        if word[:2] in ["b'", 'b"']:
+            detail_list[index] = word[2:]
+        if word[-1] == "'":
+            detail_list[index] =  detail_list[index][:-1]
+    
     new_window_name = detail_list[-1]
     return new_window_name
 

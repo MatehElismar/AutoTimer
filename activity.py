@@ -1,34 +1,47 @@
 
 import datetime
 import json
+import settings
 from dateutil import parser
 
 
 class AcitivyList:
-    def __init__(self, activities):
+
+    def __init__(self, activities, logs, overview):
         self.activities = activities
-    
-    def initialize_me(self):
-        activity_list = AcitivyList([])
-        with open('activities.json', 'r') as f:
+        self.overview = overview 
+        self.logs = logs 
+        
+
+    def initialize_me(self, project_name):
+        activity_list = AcitivyList([], [], [])
+        with open('projects/'+project_name+'.json', 'r') as f:
             data = json.load(f)
             activity_list = AcitivyList(
-                activities = self.get_activities_from_json(data)
+                activities = self.get_property_from_json(data, 'activities'),
+                overview = self.get_property_from_json(data, 'overview'),
+                logs = self.get_property_from_json(data, 'logs'),
             )
         return activity_list
-    
-    def get_activities_from_json(self, data):
-        return_list = []
-        for activity in data['activities']:
-            return_list.append(
-                Activity(
-                    name = activity['name'],
-                    time_entries = self.get_time_entires_from_json(activity),
-                )
-            )
-        self.activities = return_list
-        return return_list
-    
+            
+
+
+    # Changed By Me
+    def get_property_from_json(self, data, field):
+        return_list = [] 
+        try:
+            for activity in data[field]:
+                return_list.append(
+                    Activity(
+                        name = activity['name'],
+                        time_entries = self.get_time_entires_from_json(activity),
+                    )
+                ) 
+            return return_list 
+        except Exception:
+            print(f'No field {field} found')
+            return []
+
     def get_time_entires_from_json(self, data):
         return_list = []
         for entry in data['time_entries']:
@@ -47,7 +60,9 @@ class AcitivyList:
     
     def serialize(self):
         return {
-            'activities' : self.activities_to_json()
+            'activities' : self.activities_to_json(),
+            'overview'   : self.overview_to_json(),
+            'logs'       : self.logs_to_json() 
         }
     
     def activities_to_json(self):
@@ -56,6 +71,21 @@ class AcitivyList:
             activities_.append(activity.serialize())
         
         return activities_
+
+    # Added By Me
+    def logs_to_json(self):
+        logs_ = []
+        for log in self.logs:   
+            logs_.append(log.serialize())
+        
+        return logs_
+    
+    # Added By Me
+    def overview_to_json(self):
+        overview_ = []
+        for single_overview in self.overview:
+            overview_.append(single_overview.serialize())
+        return overview_
 
 
 class Activity:
@@ -86,6 +116,16 @@ class TimeEntry:
         self.minutes = minutes
         self.seconds = seconds
     
+
+    @property
+    def _total_time_(self):
+        return datetime.timedelta(
+            days=self.days,
+            hours=self.hours,
+            minutes=self.minutes, 
+            seconds=self.seconds
+        )
+
     def _get_specific_times(self):
         self.days, self.seconds = self.total_time.days, self.total_time.seconds
         self.hours = self.days * 24 + self.seconds // 3600

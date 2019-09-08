@@ -4,7 +4,7 @@ Check out this for more https://youtu.be/ZBLYcvPl1MA
 
 Dependencies:
 
-- selenium
+- python-dateutil
 
 
 Windows Depencies

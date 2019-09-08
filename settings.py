@@ -1,0 +1,1 @@
+BROWSERS = ['Google Chrome', 'Brave']

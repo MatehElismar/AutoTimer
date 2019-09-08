@@ -1,0 +1,318 @@
+{
+    "activities": [
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 02:00:46",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 12,
+                    "start_time": "2019-09-08 01:59:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 02:01:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2019-09-08 02:01:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 02:01:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2019-09-08 02:01:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 02:02:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2019-09-08 02:01:56"
+                }
+            ]
+        },
+        {
+            "name": "mateh@ubuntu-E6430: ~/Desktop/dev/AutoTimer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 02:01:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2019-09-08 02:00:46"
+                }
+            ]
+        }
+    ],
+    "logs": [
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 02:00:46",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 12,
+                    "start_time": "2019-09-08 01:59:34"
+                }
+            ]
+        },
+        {
+            "name": "mateh@ubuntu-E6430: ~/Desktop/dev/AutoTimer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 02:01:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2019-09-08 02:00:46"
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 02:01:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2019-09-08 02:01:02"
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 02:01:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2019-09-08 02:01:38"
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 02:02:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2019-09-08 02:01:56"
+                }
+            ]
+        }
+    ],
+    "overview": [
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 02:02:00",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 35,
+                    "start_time": "2019-09-08 01:07:20"
+                }
+            ]
+        },
+        {
+            "name": "mateh@ubuntu-E6430: ~/Desktop/dev/AutoTimer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 02:01:02",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 53,
+                    "start_time": "2019-09-08 01:07:28"
+                }
+            ]
+        },
+        {
+            "name": "Browser -> Buscar con Google | execute functino when script ends python",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:12:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2019-09-08 01:12:43"
+                }
+            ]
+        },
+        {
+            "name": "Browser -> Buscar con Google | disown not found",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:12:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2019-09-08 01:12:50"
+                }
+            ]
+        },
+        {
+            "name": "Browser -> https://www.linuxquestions.org/questions/linux-server-73/disown-problem-sh-disown-not-found-611675/",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:12:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-08 01:12:55"
+                }
+            ]
+        },
+        {
+            "name": "Browser -> disown problem (sh: disown: not found)",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:14:34",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 37,
+                    "start_time": "2019-09-08 01:12:56"
+                }
+            ]
+        },
+        {
+            "name": "Browser -> Buscar con Google | handing off task",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:14:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2019-09-08 01:14:34"
+                }
+            ]
+        },
+        {
+            "name": "Browser -> Buscar con Google | handing off task linux",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:17:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2019-09-08 01:14:41"
+                }
+            ]
+        },
+        {
+            "name": "Browser -> Super User | If I know the PID number of a process, how can I\\xc2\\xa0get its name? | linux",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:17:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-08 01:17:57"
+                }
+            ]
+        },
+        {
+            "name": "Browser -> Buscar con Google | send a process to background from python code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:18:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2019-09-08 01:17:58"
+                }
+            ]
+        },
+        {
+            "name": "Browser -> WhatsApp",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:18:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-08 01:17:59"
+                }
+            ]
+        },
+        {
+            "name": "Browser -> YouTube | (14) daemonize python",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:18:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-08 01:18:00"
+                }
+            ]
+        },
+        {
+            "name": "Browser -> Buscar con Google | os.system('disown')",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:18:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2019-09-08 01:18:13"
+                }
+            ]
+        },
+        {
+            "name": "Browser -> Stack Overflow | Running a command completely indepenently from script | python",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:19:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 50,
+                    "start_time": "2019-09-08 01:18:17"
+                }
+            ]
+        },
+        {
+            "name": "Otium audio",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-08 01:45:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-08 01:45:35"
+                }
+            ]
+        }
+    ]
+}
