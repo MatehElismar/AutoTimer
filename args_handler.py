@@ -42,7 +42,7 @@ class ArgsHandler():
         # now that we're inside a subcommand, ignore the first
         # TWO argvs, ie the command (git) and the subcommand (commit)
         args = parser.parse_args(sys.argv[2:])
-        create_project(args.project_name)
+        projectHandler.create_project(args.project_name)
 
     def delete(self):
         parser = argparse.ArgumentParser(
@@ -50,7 +50,7 @@ class ArgsHandler():
         # NOT prefixing the argument with -- means it's not optional
         parser.add_argument('project')
         args = parser.parse_args(sys.argv[2:])
-        delete_project(args.project)
+        projectHandler.delete_project(args.project)
 
     def start(self):
         global runningProjects

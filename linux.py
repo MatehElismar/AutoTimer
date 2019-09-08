@@ -66,8 +66,10 @@ def get_chrome_url_x():
             if word[:2] in ["b'", 'b"']:
                 detail_list[index] = word[2:] 
         # 
-            
-        _active_window_name = 'Browser -> ' + " | ".join(detail_list)
+        # IT BOTHERS ME THAT THE PROGRAM CREATES A OBJECT EVERY SINGLE TIME I CHANGE OF TAB IN THE BROWSER
+        # THAT'S WHY UNTIL I FIND A SOLUTION I MADE IT JUST TAKE THE WORD 'BROWSER' WHEN I'M NAVIGATING
+        # _active_window_name = 'Browser -> ' + " | ".join(detail_list)
+        _active_window_name = 'Browser'
         return _active_window_name
 
 
