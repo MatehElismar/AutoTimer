@@ -1,0 +1,162 @@
+{
+    "activities": [],
+    "logs": [],
+    "overview": [
+        {
+            "name": "mateh@ubuntu-E6430: ~/Desktop/dev/AutoTimer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 05:18:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 39,
+                    "start_time": "2019-09-14 20:19:59"
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 07:16:34",
+                    "hours": 2,
+                    "minutes": 15,
+                    "seconds": 30,
+                    "start_time": "2019-09-14 20:20:22"
+                }
+            ]
+        },
+        {
+            "name": "Browser",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 07:16:18",
+                    "hours": 1,
+                    "minutes": 37,
+                    "seconds": 47,
+                    "start_time": "2019-09-14 20:22:13"
+                }
+            ]
+        },
+        {
+            "name": "Save File",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-14 20:47:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2019-09-14 20:47:48"
+                }
+            ]
+        },
+        {
+            "name": "None",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-14 20:51:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2019-09-14 20:51:35"
+                }
+            ]
+        },
+        {
+            "name": "Mailspring",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 05:05:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "start_time": "2019-09-14 20:52:00"
+                }
+            ]
+        },
+        {
+            "name": "Mailspring \\xc2\\xb7 [GitHub] A new public key was added to MatehElismar/red-social-JA-client",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-14 20:53:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2019-09-14 20:53:45"
+                }
+            ]
+        },
+        {
+            "name": "Mailspring \\xc2\\xb7 \\xc2\\xbfQu\\xc3\\xa9 uso tiene la orden select en base de datos?",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-14 20:54:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2019-09-14 20:54:00"
+                }
+            ]
+        },
+        {
+            "name": "Mailspring \\xc2\\xb7 Is Linux dead? Why?",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-14 20:54:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2019-09-14 20:54:10"
+                }
+            ]
+        },
+        {
+            "name": "Mailspring \\xc2\\xb7 [GitHub] Your password was reset",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-14 20:57:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2019-09-14 20:56:53"
+                }
+            ]
+        },
+        {
+            "name": "mateh@ubuntu-E6430: ~/Desktop/dev",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 05:18:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2019-09-15 05:18:53"
+                }
+            ]
+        },
+        {
+            "name": "mateh@ubuntu-E6430: ~/Desktop/dev/red-social-JA",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 07:16:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2019-09-15 05:18:58"
+                }
+            ]
+        }
+    ]
+}

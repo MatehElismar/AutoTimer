@@ -1,0 +1,149 @@
+{
+    "activities": [],
+    "logs": [],
+    "overview": [
+        {
+            "name": "mateh@ubuntu-E6430: ~/Desktop/dev/AutoTimer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-10 21:47:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2019-09-10 21:45:22"
+                }
+            ]
+        },
+        {
+            "name": "Browser",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-10 22:10:44",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 33,
+                    "start_time": "2019-09-10 21:45:34"
+                }
+            ]
+        },
+        {
+            "name": "mateh@ubuntu-E6430: ~/Desktop/dev",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-10 21:47:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-10 21:47:45"
+                }
+            ]
+        },
+        {
+            "name": "mateh@ubuntu-E6430: ~/Desktop",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-10 21:47:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-10 21:47:46"
+                }
+            ]
+        },
+        {
+            "name": "mateh@ubuntu-E6430: ~",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-10 21:47:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2019-09-10 21:47:47"
+                }
+            ]
+        },
+        {
+            "name": "mateh@ubuntu-E6430: ~/Documents",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-10 21:48:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2019-09-10 21:47:58"
+                }
+            ]
+        },
+        {
+            "name": "mateh@ubuntu-E6430: ~/Documents/winter-2019",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-10 21:48:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2019-09-10 21:48:13"
+                }
+            ]
+        },
+        {
+            "name": "mateh@ubuntu-E6430: ~/Documents/winter-2019/webtech",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-10 22:09:02",
+                    "hours": 0,
+                    "minutes": 5,
+                    "seconds": 33,
+                    "start_time": "2019-09-10 21:48:23"
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-10 22:09:51",
+                    "hours": 0,
+                    "minutes": 10,
+                    "seconds": 49,
+                    "start_time": "2019-09-10 21:48:31"
+                }
+            ]
+        },
+        {
+            "name": "Terminal",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-10 22:07:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2019-09-10 21:58:16"
+                }
+            ]
+        },
+        {
+            "name": "Open Files",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-10 22:10:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2019-09-10 22:09:58"
+                }
+            ]
+        }
+    ]
+}

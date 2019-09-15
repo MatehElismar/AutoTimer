@@ -1,0 +1,149 @@
+{
+    "activities": [],
+    "logs": [],
+    "overview": [
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 01:31:33",
+                    "hours": 0,
+                    "minutes": 51,
+                    "seconds": 32,
+                    "start_time": "2019-09-14 21:08:32"
+                }
+            ]
+        },
+        {
+            "name": "Browser",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 01:33:49",
+                    "hours": 2,
+                    "minutes": 12,
+                    "seconds": 13,
+                    "start_time": "2019-09-14 21:08:34"
+                }
+            ]
+        },
+        {
+            "name": "Mailspring",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 01:31:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2019-09-14 21:25:52"
+                }
+            ]
+        },
+        {
+            "name": "Mailspring \\xc2\\xb7 AWS Support (Basic) Sign-Up Confirmation",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-14 23:57:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 24,
+                    "start_time": "2019-09-14 23:56:39"
+                }
+            ]
+        },
+        {
+            "name": "Mailspring \\xc2\\xb7 \\xc2\\xbfQu\\xc3\\xa9 uso tiene la orden select en base de datos?",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-14 23:57:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-14 23:57:07"
+                }
+            ]
+        },
+        {
+            "name": "None",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 01:02:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2019-09-15 00:53:49"
+                }
+            ]
+        },
+        {
+            "name": "Help",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 00:53:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-15 00:53:51"
+                }
+            ]
+        },
+        {
+            "name": "Ubuntu Desktop Guide",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 01:01:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2019-09-15 00:53:52"
+                }
+            ]
+        },
+        {
+            "name": "Settings",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 01:02:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2019-09-15 01:02:22"
+                }
+            ]
+        },
+        {
+            "name": "Save File",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 01:19:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2019-09-15 01:19:27"
+                }
+            ]
+        },
+        {
+            "name": "Get Started Now",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-15 01:33:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2019-09-15 01:31:42"
+                }
+            ]
+        }
+    ]
+}

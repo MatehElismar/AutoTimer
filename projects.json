@@ -3,6 +3,18 @@
         {
             "id": 0,
             "name": "general"
+        },
+        {
+            "id": 1,
+            "name": "homework"
+        },
+        {
+            "id": 2,
+            "name": "JA"
+        },
+        {
+            "id": 3,
+            "name": "learning"
         }
     ],
     "running": []
